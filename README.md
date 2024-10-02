@@ -47,6 +47,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Simply Hired](https://www.simplyhired.com/)
 - [OkJob](https://www.okjob.io/)
 - [EU Startups](https://www.eu-startups.com/startup-jobs/)
+- [Indeed](https://www.indeed.com/q-usa-jobs.html)
 
 
 
